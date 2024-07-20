@@ -1,0 +1,15 @@
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/bin/Debug/net7.0/Foreach
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/bin/Debug/net7.0/Foreach.deps.json
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/bin/Debug/net7.0/Foreach.runtimeconfig.json
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/bin/Debug/net7.0/Foreach.dll
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/bin/Debug/net7.0/Foreach.pdb
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.AssemblyReference.cache
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfoInputs.cache
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.AssemblyInfo.cs
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.csproj.CoreCompileInputs.cache
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.dll
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/refint/Foreach.dll
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.pdb
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/Foreach.genruntimeconfig.cache
+/Users/antonkupalov/Documents/GitHub/foreach/Foreach/obj/Debug/net7.0/ref/Foreach.dll
